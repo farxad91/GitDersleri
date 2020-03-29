@@ -1,2 +1,2 @@
-def cixma(x,y);
-	return x - y
+def deyisiklik(x,y);
+	return x * y
